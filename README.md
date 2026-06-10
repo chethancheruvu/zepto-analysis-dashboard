@@ -31,8 +31,31 @@ This project analyzes Zepto sales data using Microsoft Excel to identify sales t
 
 
 # Dashboard Interaction
+-<a herf="https://github.com/chethancheruvu/zepto-analysis-dashboard/blob/main/zepto%20dashboard.png">view dashboard</a>
 
 
-Top-Selling Products
-Influencer vs Non-Influencer Revenue
-Category-wise Order Distribution
+# Project Process
+-Collected and cleaned sales data.
+-Validated and formatted dataset.
+-Created pivot tables for analysis.
+-Developed KPI metrics.
+-Designed interactive dashboard with filters and charts.
+-Generated business insights and recommendations.
+
+# Dashboard
+
+<img width="1632" height="636" alt="zepto dashboard" src="https://github.com/user-attachments/assets/3ab2078c-3c17-4d74-ad5d-2c05858a3b3d" />
+
+
+# Project Insights
+Grocery and Beverage categories contribute significantly to revenue.
+Sales performance varies across cities, highlighting market opportunities.
+Discounts influence customer purchasing behavior and order volume.
+Influencer campaigns positively impact revenue generation in several categories.
+Certain products consistently outperform others in sales and revenue.
+
+# Conclusion
+
+The Zepto Sales Dashboard provides a comprehensive view of sales performance and customer behavior. The analysis helps identify profitable categories, effective marketing strategies, and growth opportunities, enabling better business decisions and revenue optimization.
+
+
