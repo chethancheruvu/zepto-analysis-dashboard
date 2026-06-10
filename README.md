@@ -14,7 +14,7 @@ This project analyzes Zepto sales data using Microsoft Excel to identify sales t
 
 # Dataset
 
--<a  herf="https://github.com/chethancheruvu/zepto-analysis-dashboard/blob/main/zepto_sales_dataset.csv.xlsx">dataset<a/>
+-<a  herf="https://github.com/chethancheruvu/zepto-analysis-dashboard/blob/main/zepto_sales_dataset.csv.xlsx">dataseta/>
 
 # Key Performance Indicators (KPIs)
 -Total Revenue Generated
